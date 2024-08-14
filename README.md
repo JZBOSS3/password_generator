@@ -1,5 +1,5 @@
 # Password Generator
-Python Program To Generate a Password
+Python Program To Generate Password
 
 ![image](https://github.com/user-attachments/assets/e218a6b9-fb46-4ce1-a27f-3218953e1e94)
 
